@@ -6,7 +6,7 @@ import 'firestore_Service.dart';
 class UserService extends FirestoreService<User> {
   UserService()
     : super(
-      collectionRef: FirebaseFirestore.instance.collection(''));
+      collectionRef: FirebaseFirestore.instance.collection('users'));
 
   @override
   User fromDocument(DocumentSnapshot<Object?> doc) {

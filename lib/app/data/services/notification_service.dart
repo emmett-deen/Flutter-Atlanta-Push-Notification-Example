@@ -6,7 +6,7 @@ import 'firestore_Service.dart';
 class NotificationService extends FirestoreService<Notification> {
   NotificationService()
     : super(
-      collectionRef: FirebaseFirestore.instance.collection(''));
+      collectionRef: FirebaseFirestore.instance.collection('notifications'));
 
   @override
   Notification fromDocument(DocumentSnapshot<Object?> doc) {
