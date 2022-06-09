@@ -1,6 +1,6 @@
 # flutter_atlanta_push_notification_example
 
-A new Flutter project.
+This project is an extremely simple example of how to implement push notifications in Flutter. This demo is only configured for push notifications on android.
 
 ## Getting Started
 
