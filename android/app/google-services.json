@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "301906759830",
+    "project_id": "flutter-developers-atl",
+    "storage_bucket": "flutter-developers-atl.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301906759830:android:492b2e912df105dd1572b7",
+        "android_client_info": {
+          "package_name": "com.example.flutter_atlanta_push_notification_example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301906759830-s063f3eedtmta57ml5pm1kqsgaikmopj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN-eAgyqu05vf8JIr_SIe2ReFBdnvFsD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "301906759830-s063f3eedtmta57ml5pm1kqsgaikmopj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
